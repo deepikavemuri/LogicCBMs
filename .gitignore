@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+.DS_store
+.idea
+=======
+# *pkl
+# *out
+# .ipynb_checkpoints/
+# *pyc
+# .idea/
+# CUB/baselines/
+# CUB/celebA/
+# CUB/saved_models/
+# CUB/scripts/
+# scripts/
+# wandb/
+# figures/
+# run.sh
+# run2.sh
+# run_away.sh
+# .vscode
+# __pycache__
+# notebooks/
+# notebooks/artifacts
+# notebooks/vcd_certificates
+# notebooks/celebA_helper.ipynb
+# notebooks/temp.ipynb
+# notebooks/rough.ipynb
+# notebooks/awa_helper.ipynb
+
+LogicCBMs/__pycache__/
+LogicCBMs/difflogic/__pycache__/
+LogicCBMs/LogicCBMs/saved_models
+LogicCBMs/saved_models
+LogicCBMs/notebooks
+LogicCBMs/scripts
+LogicCBMs/wandb
+LogicCBMs/exps
+LogicCBMs/__pycache__/
+>>>>>>> project/main
